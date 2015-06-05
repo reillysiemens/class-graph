@@ -1,0 +1,148 @@
+{
+  "CSCI 141": [
+    "MATH 112"
+  ],
+  "CSCI 145": [
+    "MATH 115",
+    "CSCI 141"
+  ],
+  "CSCI 241": [
+    "MATH 124",
+    "CSCI 145"
+  ],
+  "CSCI 247": [
+    "CSCI 145"
+  ],
+  "CSCI 301": [
+    "CSCI 145"
+  ],
+  "CSCI 305": [
+    "CSCI 241",
+    "CSCI 301"
+  ],
+  "CSCI 321": [
+    "CSCI 241"
+  ],
+  "CSCI 322": [
+    "CSCI 247"
+  ],
+  "CSCI 330": [
+    "CSCI 241"
+  ],
+  "CSCI 342": [
+    "CSCI 330"
+  ],
+  "CSCI 345": [
+    "CSCI 241"
+  ],
+  "CSCI 351": [
+    "CSCI 345"
+  ],
+  "CSCI 352": [
+    "CSCI 241",
+    "CSCI 247"
+  ],
+  "CSCI 367": [
+    "CSCI 241",
+    "CSCI 247"
+  ],
+  "CSCI 372": [
+    "Permission"
+  ],
+  "CSCI 380": [
+    "MATH 204",
+    "CSCI 241"
+  ],
+  "CSCI 397": [
+    "TBA"
+  ],
+  "CSCI 400": [
+    "Permission"
+  ],
+  "CSCI 401": [
+    "CSCI 301"
+  ],
+  "CSCI 402": [
+    "CSCI 301"
+  ],
+  "CSCI 404": [
+    "CSCI 301"
+  ],
+  "CSCI 405": [
+    "CSCI 305"
+  ],
+  "CSCI 410": [
+    "CSCI 301"
+  ],
+  "CSCI 412": [
+    "CSCI 330",
+    "CSCI 367"
+  ],
+  "CSCI 430": [
+    "CSCI 301",
+    "CSCI 330"
+  ],
+  "CSCI 442": [
+    "CSCI 342",
+    "CSCI 351"
+  ],
+  "CSCI 450": [
+    "CSCI 301"
+  ],
+  "CSCI 460": [
+    "CSCI 322",
+    "CSCI 352"
+  ],
+  "CSCI 461": [
+    "CSCI 301",
+    "CSCI 367"
+  ],
+  "CSCI 462": [
+    "CSCI 460"
+  ],
+  "CSCI 463": [
+    "Permission"
+  ],
+  "CSCI 467": [
+    "CSCI 367"
+  ],
+  "CSCI 474": [
+    "Permission"
+  ],
+  "CSCI 480": [
+    "MATH 204",
+    "CSCI 241"
+  ],
+  "CSCI 491": [
+    "Permission"
+  ],
+  "CSCI 492": [
+    "CSCI 491"
+  ],
+  "CSCI 493": [
+    "CSCI 492"
+  ],
+  "CSCI 495": [
+    "CSCI 492"
+  ],
+  "CSCI 497": [
+    "TBA"
+  ],
+  "M/CS 335": [
+    "MATH 204",
+    "CSCI 141"
+  ],
+  "M/CS 375": [
+    "MATH 204",
+    "CSCI 141"
+  ],
+  "M/CS 435": [
+    "MATH 204",
+    "MATH 224",
+    "CSCI 141"
+  ],
+  "M/CS 475": [
+    "MATH 224",
+    "M/CS 375"
+  ]
+}
